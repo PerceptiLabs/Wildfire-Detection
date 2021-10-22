@@ -5,7 +5,10 @@
 </p>
 
 # Wildfire Detection
-This dataset<sup>1</sup> contains 250x250-pixel images depicting *normal* scenes and those containing fires.
+This dataset<sup>1</sup> contains 250x250-pixel images depicting *normal* scenes and those containing fires. Below are some examples of these images:
+
+![Normal](./normalsamples.png)
+![Fires](./firesamples.png)
 
 The data can be used to build and train an ML model that can detect wildfires using image recognition. 
 
